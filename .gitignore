@@ -1,0 +1,9 @@
+__pycache__/
+.vscode/
+.venv/
+venv/
+.env
+
+.idea
+presets/
+.DS_Store
