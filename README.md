@@ -1,9 +1,26 @@
 
 ### Modiefied from [corkborg/wd14-tagger-standalone](https://github.com/corkborg/wd14-tagger-standalone). Credit to [corkborg](https://github.com/corkborg)
 
+## 下载方式
+
+因为模型文件普遍超过100MB，所以项目启用了`git-lfs`，下载项目的时候使用下面的方法：
+
+```shell
+# HTTPS
+git clone https://github.com/unicornboat/wd14-tagger-local.git
+
+# SSH
+git clone git@github.com:unicornboat/wd14-tagger-local.git
+
+cd wd14-tagger-local
+git lfs pull
+```
+
+git lfs pull命令会根据仓库中的.gitattributes文件中的LFS指针来下载所有必要的大文件。这是一个重要的步骤，因为只有这样才能确保你拥有文件的实际内容，而不仅仅是指向这些内容的指针文件。
+
 ## 安装方式
 
-```
+```shell
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
@@ -11,7 +28,7 @@ pip install -r requirements.txt
 
 ## 用法
 
-```
+```shell
 用法: run.py [-h] (--dir DIR | --file FILE) [--threshold THRETHOLD] [--ext EXT]
               [--model {wd14-vit.v1,wd14-vit.v2,wd14-convnext.v1,wd14-convnext.v2,wd14-convnextv2.v1,wd14-swinv2-v1,wd-v1-4-moat-tagger.v2,mld-caformer.dec-5-97527,mld-tresnetd.6-30000}]
 
@@ -29,7 +46,7 @@ pip install -r requirements.txt
 
 ## 目前支持的模型列表
 
-```
+```shell
 wd14-vit.v1
 wd14-vit.v2
 wd14-convnext.v1
@@ -43,7 +60,7 @@ mld-tresnetd.6-30000
 
 ## 例子
 
-```
+```shell
 # 打标单个文件
 python run.py --file image.jpg
 
