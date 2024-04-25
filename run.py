@@ -11,6 +11,7 @@ parser = argparse.ArgumentParser()
 group = parser.add_mutually_exclusive_group(required=True)
 group.add_argument('--dir', help='对目录中的所有图像进行打标')
 group.add_argument('--file', help='对文件进行打标')
+group.add_argument('--filetxt', help='对文件进行打标并将结果写入同名txt文件')
 
 parser.add_argument(
     '--threshold',
@@ -58,4 +59,8 @@ if args.file:
     tags_str = ", ".join(tags.keys())
     print(tags_str)
 
-
+if args.filetxt:
+    tags = image_interrogate(Path(args.filetxt))
+    tags_str = ", ".join(tags.keys())
+    with open(Path(args.filetxt).parent / f"{Path(args.filetxt).stem}{args.ext}", "w") as fp:
+        fp.write(tags_str)

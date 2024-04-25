@@ -36,6 +36,7 @@ pip install -r requirements.txt
   -h, --help            显示此帮助消息并退出
   --dir DIR             对目录中的所有图像进行打标
   --file FILE           对文件进行打标
+  --filetxt FILE        对文件进行打标并将结果写入同名txt文件
   --threshold THRETHOLD
                         打标值的阈值概率(默认为0.35)
   --ext EXT             如果是目录的情况，要为字幕文件添加的扩展名
@@ -63,6 +64,9 @@ mld-tresnetd.6-30000
 ```shell
 # 打标单个文件
 python run.py --file image.jpg
+
+# 打标单个文件并将tags保存到同目录内的同名txt文件中
+python run.py --filetxt image.jpg
 
 # 打标整个目录
 python run.py --dir /Users/myname/Downloads/pictures
