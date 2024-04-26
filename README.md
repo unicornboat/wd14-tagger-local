@@ -9,6 +9,8 @@
 
 [百度网盘，提取码：8888](https://pan.baidu.com/s/1Cp7lMWkt_13I4LOiKZdO7Q?pwd=8888)
 
+[360云盘，提取码：1d3d](https://www.yunpan.com/surl_yGID8qarm3W)
+
 [MEGA](https://mega.nz/file/8p0BTLwL#yuRmRzrxJO7IXUKszRwvWA9VJl_tImvXhnl3AMJpHbw)
 
 ## 安装方式
