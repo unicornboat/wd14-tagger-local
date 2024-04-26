@@ -3,20 +3,13 @@
 
 ## 下载方式
 
-因为模型文件普遍超过100MB，所以项目启用了`git-lfs`，下载项目的时候使用下面的方法：
+因为模型文件超过github要求，所以拉取夏目之后需要单独下载模型包解压缩到项目根目录下。
 
-```shell
-# HTTPS
-git clone https://github.com/unicornboat/wd14-tagger-local.git
+模型文件打包的MD5验证：`21731ce7838c2a8fe93d988e406bc6bc`
 
-# SSH
-git clone git@github.com:unicornboat/wd14-tagger-local.git
+[百度网盘，提取码：8888](https://pan.baidu.com/s/1Cp7lMWkt_13I4LOiKZdO7Q?pwd=8888)
 
-cd wd14-tagger-local
-git lfs pull
-```
-
-git lfs pull命令会根据仓库中的.gitattributes文件中的LFS指针来下载所有必要的大文件。这是一个重要的步骤，因为只有这样才能确保你拥有文件的实际内容，而不仅仅是指向这些内容的指针文件。
+[MEGA](https://mega.nz/file/8p0BTLwL#yuRmRzrxJO7IXUKszRwvWA9VJl_tImvXhnl3AMJpHbw)
 
 ## 安装方式
 

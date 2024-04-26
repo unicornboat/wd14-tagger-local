@@ -7,3 +7,4 @@ venv/
 .idea
 presets/
 .DS_Store
+models
