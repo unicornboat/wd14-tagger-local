@@ -60,7 +60,10 @@ if args.file:
     print(tags_str)
 
 if args.filetxt:
-    tags = image_interrogate(Path(args.filetxt))
+    file_path = Path(args.filetxt)
+    tags = image_interrogate(file_path)
     tags_str = ", ".join(tags.keys())
-    with open(Path(args.filetxt).parent / f"{Path(args.filetxt).stem}{args.ext}", "w") as fp:
+    txt_file_path = file_path.parent / f"{file_path.stem}{args.ext}"
+    with open(txt_file_path, "w") as fp:
         fp.write(tags_str)
+    print(f"打标成功！标签文件是：{txt_file_path}")
