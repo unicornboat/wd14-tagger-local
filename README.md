@@ -13,21 +13,30 @@
 |                                  | [MEGA](https://mega.nz/file/o9khTZJI#yuRmRzrxJO7IXUKszRwvWA9VJl_tImvXhnl3AMJpHbw) |
 | WD14_ViT_v1                      | [百度网盘，提取码：8888](https://pan.baidu.com/s/1mbrl6ZH7V6GaOmSzffx0WQ?pwd=8888)         |
 |                                  | [MEGA](https://mega.nz/file/c0U3VYyQ#bh2c1IdIILZBdJxulyRCrq3Y8J-KyDr4Q_-jeS8QAkI)                                                                          |
+|                                  | [夸克网盘](https://pan.quark.cn/s/731e7bbc11a9)                                                                          |
 | WD14_ViT_v2                      | [百度网盘，提取码：8888](https://pan.baidu.com/s/1h7faU4MSZlLVOfAGHAyxeA?pwd=8888)         |
+|                                  | [夸克网盘](https://pan.quark.cn/s/24ea012cca7e)                                                                          |
 |                                  | [MEGA](https://mega.nz/file/MhUTgAqa#be7kQOzTIIQYg3nr0uy9A58LAELXUvfsLIjipM4N5yo)                                                                          |
 | WD14_SwinV2_v1                   | [百度网盘，提取码：8888](https://pan.baidu.com/s/1h7faU4MSZlLVOfAGHAyxeA?pwd=8888)         |
+|                                  | [夸克网盘](https://pan.quark.cn/s/ce27423e97c1)                                                                          |
 |                                  | [MEGA](https://mega.nz/file/94EQWabK#2iPOo_9cRwLyEW6sT-ndKKZCIHcIl_ZTllPB5R7BMPo)                                                                          |
 | WD14_ConvNeXT_v1                 | [百度网盘，提取码：8888](https://pan.baidu.com/s/1bLs5uGy0RXGZbEdZYI3xjw?pwd=8888)         |
+|                                  | [夸克网盘](https://pan.quark.cn/s/0f40326c17ba)                                                                          |
 |                                  | [MEGA](https://mega.nz/file/4w9TXJzA#1Xtpdi1Q5CjKiufPO6UN5cOSZ1z4C5dypf5CIuKj5Mg)                                                                          |
 | WD14_ConvNeXT_v2                 | [百度网盘，提取码：8888](https://pan.baidu.com/s/1VlDW1yVynnF_crqtUEyLMQ?pwd=8888)         |
+|                                  | [夸克网盘](https://pan.quark.cn/s/fda528feedf7)                                                                          |
 |                                  | [MEGA](https://mega.nz/file/ksMlTSqR#4s4vck1v8OCSD9xhcAdUKXPPiwdiAzbmzoObxIq17xs)                                                                          |
 | WD14_ConvNeXTV2_v1 (默认模型)        | [百度网盘，提取码：8888](https://pan.baidu.com/s/1NU7ICdpHhl1TECbeW9Icmg?pwd=8888)         |
+|                                  | [夸克网盘](https://pan.quark.cn/s/a8948674513d)                                                                          |
 |                                  | [MEGA](https://mega.nz/file/AxkQhYha#o1Gb85MctHSurPp17vUYjVGp9jwECqtEbwgGJud7EtA)                                                                          |
 | WD14_moat_tagger_v2              | [百度网盘，提取码：8888](https://pan.baidu.com/s/1TSLeV5Sc_2v53hquiRxC7w?pwd=8888)         |
+|                                  | [夸克网盘](https://pan.quark.cn/s/54d08d409cec)                                                                          |
 |                                  | [MEGA](https://mega.nz/file/kxtikA7K#SsjyR6Mb52MXWAbiwULKedA193Sj8OQ3BEfB-zUnDUE)                                                                          |
 | ML-Danbooru_TResNet-D_6-30000    | [百度网盘，提取码：8888](https://pan.baidu.com/s/1d4doQle8SeDogQvvdDOpsg?pwd=8888)         |
+|                                  | [夸克网盘](https://pan.quark.cn/s/9bb6b8ca26b1)                                                                          |
 |                                  | [MEGA](https://mega.nz/file/ogVSDCCS#eL7zPCCWdWdXU7aM-0viY_fez7dc6IuuEpjPy1s9BGQ)                                                                          |
 | ML-Danbooru_Caformer_dec-5-97527 | [百度网盘，提取码：8888](https://pan.baidu.com/s/1PpiEVjAAAGCVl-uoxFvZog?pwd=8888)         |
+|                                  | [夸克网盘](https://pan.quark.cn/s/1e83867460ba)                                                                          |
 |                                  | [MEGA](https://mega.nz/file/kg0j2YKQ#mEWO1vVfDwFUvP46lFF60DhoBU_XyTGstR91iyS-HlQ)                                                                          |
 
  （提取码：）
