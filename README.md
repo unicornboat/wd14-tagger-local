@@ -3,7 +3,7 @@
 
 ## 模型方式
 
-因为模型文件超过github要求，所以拉取夏目之后需要单独下载模型包解压缩到项目根目录下。
+因为模型文件超过github要求，所以拉取项目之后需要单独下载模型包解压缩到项目根目录下。
 
 默认模型是：WD14_ConvNeXTV2_v1。如果不想在命令行后面使用`--model`选项的话，直接下载这个默认模型就可以了。
 
@@ -12,8 +12,8 @@
 | 全部模型                             | [百度网盘，提取码：8888](https://pan.baidu.com/s/1nX2rN3UpThURkUbaDS7tEQ?pwd=8888)         |
 |                                  | [MEGA](https://mega.nz/file/o9khTZJI#yuRmRzrxJO7IXUKszRwvWA9VJl_tImvXhnl3AMJpHbw) |
 | WD14_ViT_v1                      | [百度网盘，提取码：8888](https://pan.baidu.com/s/1mbrl6ZH7V6GaOmSzffx0WQ?pwd=8888)         |
-|                                  | [MEGA](https://mega.nz/file/c0U3VYyQ#bh2c1IdIILZBdJxulyRCrq3Y8J-KyDr4Q_-jeS8QAkI)                                                                          |
 |                                  | [夸克网盘](https://pan.quark.cn/s/731e7bbc11a9)                                                                          |
+|                                  | [MEGA](https://mega.nz/file/c0U3VYyQ#bh2c1IdIILZBdJxulyRCrq3Y8J-KyDr4Q_-jeS8QAkI)                                                                          |
 | WD14_ViT_v2                      | [百度网盘，提取码：8888](https://pan.baidu.com/s/1h7faU4MSZlLVOfAGHAyxeA?pwd=8888)         |
 |                                  | [夸克网盘](https://pan.quark.cn/s/24ea012cca7e)                                                                          |
 |                                  | [MEGA](https://mega.nz/file/MhUTgAqa#be7kQOzTIIQYg3nr0uy9A58LAELXUvfsLIjipM4N5yo)                                                                          |
