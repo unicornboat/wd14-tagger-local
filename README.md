@@ -39,7 +39,6 @@
 |                                  | [夸克网盘](https://pan.quark.cn/s/1e83867460ba)                                                                          |
 |                                  | [MEGA](https://mega.nz/file/kg0j2YKQ#mEWO1vVfDwFUvP46lFF60DhoBU_XyTGstR91iyS-HlQ)                                                                          |
 
- （提取码：）
 
 ## 安装方式
 
